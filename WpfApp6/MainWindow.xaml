@@ -1,0 +1,29 @@
+﻿<Window x:Class="WpfApp6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Border Background="LightPink" ></Border>
+        <TextBlock Text="Введите число" Margin="32,10,520,340" FontSize="26" FontWeight="Bold"/>
+        <TextBox x:Name="ITextBox" Margin="32,74,582,290"/>
+
+        <TextBlock Text="Введите число" Margin="297,10,234,340" FontSize="26" FontWeight="Bold"/>
+        <TextBox Name="IITextBox" Margin="307,74,307,290"/>
+        
+        <TextBlock Text="Введите число" Margin="572,10,10,340" FontSize="26" FontWeight="Bold"/>
+        <TextBox x:Name="IIITextBox" Margin="582,74,32,290"/>
+
+        <TextBlock Text="Сумма" Margin="98,237,543,133" FontSize="20" FontWeight="Bold"/>
+        <TextBlock Text="Произведение" Margin="98,287,496,63" FontSize="20" FontWeight="Bold"/>
+
+        <TextBlock Text="->" Margin="304,225,395,121" FontSize="50" FontWeight="Bold"/>
+
+        <Button Content="Вычисления" Margin="455,178,125,204" Click="Summ_Click" FontSize="20" FontWeight="Bold" />
+        <TextBox Name="SPTextBox" Margin="455,235,125,147"/>
+        <TextBox Name="PSTextBox" Margin="455,287,125,95"/>
+    </Grid>
+</Window>
