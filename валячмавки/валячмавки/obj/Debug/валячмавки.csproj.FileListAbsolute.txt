@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\валячмавки\валячмавки\bin\Debug\валячмавки.exe.config
+C:\Users\USER\source\repos\валячмавки\валячмавки\bin\Debug\валячмавки.exe
+C:\Users\USER\source\repos\валячмавки\валячмавки\bin\Debug\валячмавки.pdb
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\MainWindow.g.cs
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\App.g.cs
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки_MarkupCompile.cache
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки_MarkupCompile.lref
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\MainWindow.baml
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки.g.resources
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки.Properties.Resources.resources
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки.exe
+C:\Users\USER\source\repos\валячмавки\валячмавки\obj\Debug\валячмавки.pdb
